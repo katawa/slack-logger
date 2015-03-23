@@ -4,6 +4,7 @@
 
 ```
 $ export HUBOT_SLACK_TOKEN=***
+$ export MONGO_USER=***
 $ export MONGO_PASS=***
 $ export MONGO_HOST=***
 $ export MONGO_PORT=***

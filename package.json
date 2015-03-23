@@ -9,6 +9,7 @@
     "hubot-heroku-keepalive": "0.0.4",
     "hubot-slack": "^3.3.0",
     "lodash": "^3.5.0",
+    "moment": "^2.9.0",
     "mongojs": "^0.18.2"
   },
   "engines": {
